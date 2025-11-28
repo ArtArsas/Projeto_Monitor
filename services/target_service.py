@@ -1,4 +1,5 @@
 import os 
+import logging
 
 FILE_CONFIG = "config/target_config.txt"
 FILE_CONFIG_RISCO = "config/words_config.txt"
@@ -41,16 +42,28 @@ def carregar_file_config():
                     uploaded_target.append(alvo_limpo)
 
         if not uploaded_target:
-            print(f"AVISO: Arquivo de target vazio. Usando alvos padrão.")
+        #---MSG Arquivo Vazio
+            msg = f"AVISO: Arquivo de target vazio. Usando alvos padrão. Lista Padrâo: {DEFAULT_TARGETS}"
+            logging.warning(msg)
+            print(msg)
             return DEFAULT_TARGETS
-        
+
+        #---MSG Arquivo Carregado Com Sucesso
+        msg = f"Config de Alvos carregada com sucesso: {len(uploaded_target)} programas monitorados."
+        logging.warning(msg)
         print(f"✅ Configuração de Alvos carregada com sucesso: {len(uploaded_target)} programas monitorados.")
-        return uploaded_target # Retorno de sucesso
+        return uploaded_target
     
     except FileNotFoundError:
+        #---MSG Arquivo não encontrado
+        msg = f"Arquivo de configuração '{FILE_CONFIG}' não encontrado. Usando valor padrão."
+        logging.warning(msg)
         print(f"Arquivo de configuração '{FILE_CONFIG}' não encontrado. Usando valor padrão.")
         return DEFAULT_TARGETS
+    
     except Exception as e:
+        msg = f"Erro ao carregar o arquivo de configuração: {e}. Usando valor padrão."
+        logging.warning(msg)
         print(f"Erro ao carregar o arquivo de configuração: {e}. Usando valor padrão.")
         return DEFAULT_TARGETS
     
@@ -66,17 +79,25 @@ def carregar_words_config():
                     uploaded_risco.append(palavra)
 
         if not uploaded_risco:
+            msg = f"AVISO: Arquivo de risco vazio. Usando palavras padrão. Lista Padrão: {DEFAULT_RISK_WORDS}"
+            logging.warning(msg)
             print(f"AVISO: Arquivo de risco vazio. Usando palavras padrão.")
             return DEFAULT_RISK_WORDS
         
+        msg = f"Config de Risco carregada com sucesso: {len(uploaded_risco)} termos de alerta."
+        logging.warning(msg)
         print(f"✅ Configuração de Risco carregada com sucesso: {len(uploaded_risco)} termos de alerta.")
         return uploaded_risco
         
     except FileNotFoundError:
+        msg = f"AVISO: Arquivo de risco '{FILE_CONFIG_RISCO}' não encontrado. Usando padrão."
+        logging.warning(msg)
         print(f"AVISO: Arquivo de risco '{FILE_CONFIG_RISCO}' não encontrado. Usando padrão.")
         return DEFAULT_RISK_WORDS
     
-    except Exception as e:  
+    except Exception as e: 
+        msg = f"ERRO ao carregar palavras de risco: {e}. Usando padrão."
+        logging.warning(msg) 
         print(f"ERRO ao carregar palavras de risco: {e}. Usando padrão.")
         return DEFAULT_RISK_WORDS
     
