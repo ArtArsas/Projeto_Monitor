@@ -1,0 +1,165 @@
+2025-11-27 15:13:43 - INFO - 
+ ::::::: INICIANDO SISTEMA :::::::
+2025-11-27 15:13:44 - WARNING - Config de Alvos carregada com sucesso: 15 programas monitorados.
+2025-11-27 15:13:44 - WARNING - Config de Risco carregada com sucesso: 82 termos de alerta.
+2025-11-27 15:13:44 - INFO - Config Monitoramento Automatico: 15 segundos
+2025-11-27 15:13:44 - INFO - 
+ ::::::: SISTEMA INICIADO COM SUCESSO:::::::
+2025-11-27 15:13:59 - INFO - Config Monitoramento Automatico: 15 segundos
+2025-11-27 15:13:59 - INFO - 
+ [AUTO] Monitoramento Periódico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:14:14 - INFO - Config Monitoramento Automatico: 15 segundos
+2025-11-27 15:14:29 - INFO - Config Monitoramento Automatico: 15 segundos
+2025-11-27 15:14:44 - INFO - Config Monitoramento Automatico: 15 segundos
+2025-11-27 15:14:59 - INFO - Config Monitoramento Automatico: 15 segundos
+2025-11-27 15:15:14 - INFO - Config Monitoramento Automatico: 15 segundos
+2025-11-27 15:15:29 - INFO - Config Monitoramento Automatico: 15 segundos
+2025-11-27 15:16:09 - INFO - 
+ ::::::: INICIANDO SISTEMA :::::::
+2025-11-27 15:16:09 - WARNING - Config de Alvos carregada com sucesso: 15 programas monitorados.
+2025-11-27 15:16:09 - WARNING - Config de Risco carregada com sucesso: 82 termos de alerta.
+2025-11-27 15:16:09 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:16:09 - INFO - 
+ ::::::: SISTEMA INICIADO COM SUCESSO:::::::
+2025-11-27 15:16:14 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:16:19 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:16:19 - INFO - 
+ [AUTO] Monitoramento Periódico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:16:24 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:16:24 - INFO - 
+ [AUTO] Monitoramento Periódico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:16:30 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:16:30 - INFO - 
+ [AUTO] Monitoramento Periódico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:16:33 - INFO - 
+[GATILHO ATIVO - ENTER] Acionado pelo alvo 'CHROME'...
+2025-11-27 15:16:36 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:16:36 - INFO - 
+ [AUTO] Monitoramento Periódico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:16:39 - INFO - 
+[GATILHO ATIVO - ENTER] Acionado pelo alvo 'CHROME'...
+2025-11-27 15:16:41 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:16:41 - INFO - 
+ [AUTO] Monitoramento Periódico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:16:47 - INFO - 
+Tecla ESC pressionada. Encerrando o monitor de teclas...
+2025-11-27 15:18:03 - INFO - 
+ ::::::: INICIANDO SISTEMA :::::::
+2025-11-27 15:18:03 - WARNING - Config de Alvos carregada com sucesso: 15 programas monitorados.
+2025-11-27 15:18:03 - WARNING - Config de Risco carregada com sucesso: 82 termos de alerta.
+2025-11-27 15:18:03 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:03 - INFO - 
+ ::::::: SISTEMA INICIADO COM SUCESSO:::::::
+2025-11-27 15:18:08 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:08 - INFO - [AUTO] Monitoramento Periodico: Alvo 'BLOCO DE NOTAS' detectado. Capturando...
+2025-11-27 15:18:14 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:14 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:18:19 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:19 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:18:25 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:25 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:18:31 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:31 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:18:36 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:36 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:18:42 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:42 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:18:47 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:47 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:18:53 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:53 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:18:59 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:18:59 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:19:04 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:19:04 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:19:10 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:19:10 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:19:16 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:19:16 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:19:21 - INFO - Config Monitoramento Automatico: 5 segundos
+2025-11-27 15:19:21 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 15:19:26 - INFO - 
+Tecla ESC pressionada. Encerrando o monitor de teclas...
+2025-11-27 16:02:22 - INFO - 
+ ::::::: INICIANDO SISTEMA :::::::
+2025-11-27 16:02:22 - WARNING - Config de Alvos carregada com sucesso: 15 programas monitorados.
+2025-11-27 16:02:22 - WARNING - Config de Risco carregada com sucesso: 82 termos de alerta.
+2025-11-27 16:02:22 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:02:22 - INFO - 
+ ::::::: SISTEMA INICIADO COM SUCESSO:::::::
+2025-11-27 16:02:27 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:02:32 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:02:37 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:02:42 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:02:47 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:02:52 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:02:57 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:02 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:07 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:12 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:17 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:22 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:27 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:32 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:37 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:42 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:47 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:52 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:03:57 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:02 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:07 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:12 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:17 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:22 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:22 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 16:04:28 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:28 - INFO - [AUTO] Monitoramento Periodico: Alvo 'CHROME' detectado. Capturando...
+2025-11-27 16:04:31 - INFO - 
+[GATILHO ATIVO - ENTER] Acionado pelo alvo 'CHROME'...
+2025-11-27 16:04:33 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:38 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:43 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:43 - INFO - [AUTO] Monitoramento Periodico: Alvo 'BLOCO DE NOTAS' detectado. Capturando...
+2025-11-27 16:04:49 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:51 - INFO - 
+ ALERTA DE RISCO DETECTADO: 'DROGAS' na janela: main.py - Projeto_Monitor - Visual Studi
+2025-11-27 16:04:54 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:04:56 - INFO - 
+Tecla ESC pressionada. Encerrando o monitor de teclas...
+2025-11-27 16:06:05 - INFO - 
+ ::::::: INICIANDO SISTEMA :::::::
+2025-11-27 16:06:05 - WARNING - Config de Alvos carregada com sucesso: 15 programas monitorados.
+2025-11-27 16:06:05 - WARNING - Config de Risco carregada com sucesso: 82 termos de alerta.
+2025-11-27 16:06:05 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:05 - INFO - 
+ ::::::: SISTEMA INICIADO COM SUCESSO:::::::
+2025-11-27 16:06:10 - INFO - 
+ ALERTA DE RISCO DETECTADO: 'DROGAS' na janela: main.py - Projeto_Monitor - Visual Studi
+2025-11-27 16:06:10 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:15 - INFO - 
+ ALERTA DE RISCO DETECTADO: 'DROGAS' na janela: main.py - Projeto_Monitor - Visual Studi
+2025-11-27 16:06:15 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:20 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:25 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:30 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:35 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:40 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:45 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:50 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:06:55 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:01 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:06 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:11 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:16 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:21 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:26 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:31 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:36 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:41 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:46 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:51 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:07:56 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:08:01 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:08:06 - INFO - [AUTO] Config Monitoramento Automatico: 5 segundos
+2025-11-27 16:08:07 - INFO - 
+Tecla ESC pressionada. Encerrando o monitor de teclas...

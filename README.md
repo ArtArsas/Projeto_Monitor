@@ -1,4 +1,5 @@
-# 🖥️ Monitor de Atividade Condicional
+# 🖥️ Monitor de Atividade Condicional (Código Mentor Leigo)
+
 Este projeto é um software de **monitoramento de *background*** em Python, focado em registrar atividades específicas (captura de tela e log de banco de dados) apenas quando programas pré-definidos (os **Alvos**) estão ativos, acionado por um gatilho de teclado (**ENTER**).
 
 O projeto adota a prática de **modularização**, separando a lógica de banco de dados e configuração em módulos independentes para facilitar a manutenção.
